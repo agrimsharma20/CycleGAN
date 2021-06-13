@@ -11,7 +11,7 @@ To Create the Directory, clone this repository:
 !git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 This will download the baseline cyclegan directory.
-To review the Modified Loss Functions or Embedded CycleGAN, replace the files networks.py and cycle_gan_model.py in the baseline cyclegan directory named "models" with the files in the folders in this repository.
+To review the Modified Loss Functions or Embedded CycleGAN, replace the files networks.py and cycle_gan_model.py in the baseline cyclegan directory named "models" with the files in the respective folders in this repository.
 
 Notes:
 
