@@ -2,6 +2,9 @@
 In this project, we attempt to modify the Loss function, and the architecture and analyze the results.
 The code used for the project is added here.
 
+The Blog can be accessed using the link below:
+https://hackmd.io/byPmGZaBQqWTHlzFVKRFjA
+
 To Create the Directory, clone this repository:
 !git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 This will download the baseline cyclegan directory.
